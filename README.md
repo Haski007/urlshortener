@@ -1,4 +1,4 @@
-# urlshortener
+# URL Shortener
 - Receives GET query on `http://localhost:8080` and draw simple html with input field.
 - Enter any url to make it shorter and with your hostname, submit.
 - It will apper shortened url which will be always redirecting on your url.
